@@ -241,6 +241,7 @@ _INDEED_SEARCH_COUNTRIES = {
     "mexico": "MX",
     "japan": "JP",
     "singapore": "SG",
+    "ireland": "IE",
 }
 
 
